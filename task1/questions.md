@@ -27,6 +27,5 @@ AcademicYear: Records the academic year of course selection, which is a temporal
 6.	Identify the highest normal form that this database satisfies and justify your answer with reference to the structure of the tables and their attributes. [4]
 
 This database satisfies the third normal form (3NF):
-
 All tables have primary keys, and non-primary key fields are completely dependent on the primary key without any transitive dependencies. Tables are explicitly associated through foreign keys, with no duplicate data storage.
 
